@@ -138,7 +138,7 @@ screen)
 
 - [Onboard](https://launchpad.net/onboard) (X11,
 this is my personal go-to virtual keyboard)
-- I have not seen any Wayland desktop OSKs
+- [vboard](https://github.com/archisman-panigrahi/vboard): Supports both KDE and GNOME via uinput.
 
 ## Resources
 
